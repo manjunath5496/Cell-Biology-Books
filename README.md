@@ -7,7 +7,8 @@
   
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Cell-Biology-Books/blob/master/cbi(4).pdf" style="text-decoration:none;"> Anatomy, Histology and Cell Biology: PreTest Self-Assessment and Review </a></b></li>
                                
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Cell-Biology-Books/blob/master/cbi(5).pdf" style="text-decoration:none;"> Cell Biology, Genetics, Molecular Biology, Evolution and Ecology </a></b></li>   
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Cell-Biology-Books/blob/master/cbi(5).pdf" style="text-decoration:none;"> Cell Biology, Genetics, Molecular Biology, Evolution and Ecology </a></b></li>  
+    <li><b><a target="_blank" href="https://github.com/manjunath5496/Cell-Biology-Books/blob/master/cbi(6).pdf" style="text-decoration:none;"> Cell Biology Protocols </a></b></li> 
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Cell-Biology-Books/blob/master/cbi(7).pdf" style="text-decoration:none;">Immunology and Cell Biology of Parasitic Diseases</a></b></li>
 
